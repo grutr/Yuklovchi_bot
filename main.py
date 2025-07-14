@@ -19,8 +19,11 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Bot token (environment variable orqali yoki to'g'ridan-to'g'ri)
-BOT_TOKEN = "8110948714:AAFKy8AjEc5FXLedZl-x8J5kqYrt79dYyLQ"
+from dotenv import load_dotenv
+
+load_dotenv()
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Tillar ro'yxati
 LANGUAGES = {
