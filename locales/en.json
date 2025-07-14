@@ -1,0 +1,20 @@
+{
+  "welcome": "Welcome to the Video Downloader Bot!\n\nPlease choose your language:",
+  "choose_platform": "Choose a platform:",
+  "send_link": "Please send the video link:",
+  "processing": "Video is downloading... Please wait ⏳",
+  "error": "An error occurred. Please try again.",
+  "invalid_link": "Invalid link. Please send a correct link.",
+  "download_complete": "Video downloaded successfully! 📹",
+  "file_too_large": "File is too large. Telegram supports files up to 50MB.",
+  "back": "⬅️ Back",
+  "youtube_selected": "YouTube selected. Send video link:",
+  "tiktok_selected": "TikTok selected. Send video link:",
+  "instagram_selected": "Instagram selected. Send video link:",
+  "downloading": "Download started...",
+  "upload_telegram": "Uploading to Telegram...",
+  "select_quality": "Select quality:",
+  "high_quality": "🔥 High quality",
+  "medium_quality": "⚡ Medium quality",
+  "low_quality": "💾 Low quality (small size)"
+}

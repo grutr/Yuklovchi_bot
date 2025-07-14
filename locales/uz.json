@@ -1,0 +1,20 @@
+{
+  "welcome": "Assalomu alaykum! Video yuklovchi botga xush kelibsiz!\n\nIltimos, tilni tanlang:",
+  "choose_platform": "Platformani tanlang:",
+  "send_link": "Iltimos, video havolasini yuboring:",
+  "processing": "Video yuklanmoqda... Iltimos, kuting ⏳",
+  "error": "Xatolik yuz berdi. Iltimos, qaytadan urinib ko'ring.",
+  "invalid_link": "Noto'g'ri havola. Iltimos, to'g'ri havola yuboring.",
+  "download_complete": "Video muvaffaqiyatli yuklandi! 📹",
+  "file_too_large": "Fayl hajmi juda katta. Telegram 50MB gacha fayllarni qo'llab-quvvatlaydi.",
+  "back": "⬅️ Orqaga",
+  "youtube_selected": "YouTube tanlandi. Video havolasini yuboring:",
+  "tiktok_selected": "TikTok tanlandi. Video havolasini yuboring:",
+  "instagram_selected": "Instagram tanlandi. Video havolasini yuboring:",
+  "downloading": "Yuklab berish boshlandi...",
+  "upload_telegram": "Telegramga yuborish...",
+  "select_quality": "Sifatni tanlang:",
+  "high_quality": "🔥 Yuqori sifat",
+  "medium_quality": "⚡ O'rta sifat",
+  "low_quality": "💾 Past sifat (kichik hajm)"
+}
